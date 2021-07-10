@@ -1,2 +1,4 @@
 Kafka-env/Scripts
 Kafka-env/Lib
+Kafka-env/settings.json
+Kafka-env/pyvenv.cfg
